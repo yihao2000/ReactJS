@@ -1,0 +1,1 @@
+export const FAVORITE_FRUIT = 'favorite_fruit';

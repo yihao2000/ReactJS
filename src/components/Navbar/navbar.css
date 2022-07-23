@@ -1,0 +1,18 @@
+.navbar {
+    background-color: rgb(51, 2, 114);
+    box-shadow: 1rem;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.title {
+    background-color: #221263;
+    box-shadow: 2px 2px 10px .1px rgb(155, 93, 255);
+
+}
+
+.letter {
+    color: #6b4afd;
+    text-decoration: underline;
+    font-size: x-large;
+}
